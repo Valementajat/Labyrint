@@ -1,7 +1,8 @@
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
-#
+#C:\Users\takam\Labyrinth8\Packages\com.ptc.vuforia.engine-10.19.3.tgz
+/[Pp]ackages/com.ptc.vuforia.engine-10.19.3.tgz
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
